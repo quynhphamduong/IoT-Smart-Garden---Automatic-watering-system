@@ -1,4 +1,4 @@
-# STM32 to TCP/IP via ESP32 - Automatic-watering-system 
+# IoT-Smart-Garden---Automatic-watering-system 
 
 This project demonstrates how to read analog voltages from temperature and humidity sensors using the STM32F103C8T6 microcontroller. 
 The data was then transmitted via the UART protocol to the ESP32, displayed on an LCD screen, and used to control a water pump for plant irrigation. 
