@@ -12,7 +12,7 @@ In this project:
 
 The following diagram illustrates the system architecture:
 
-![System Overview][Block diagram.png]  
+![System Overview](https://github.com/quynhphamduong/IoT-Smart-Garden---Automatic-watering-system/blob/9525ff16d472fe18a5743a2d322e12d83687c895/Block%20diagram.png)  
 *Insert an image showing the architecture of your system: STM32 → ESP32 → TCP/IP Network*
 
 ## Features
